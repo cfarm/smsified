@@ -39,5 +39,5 @@ You can then import the `smsified` Python library.
 
 # And, we can switch it up at any time.
 >>> s.number('415-456-7890')
->>> s.send('415-123-4567', 'ohai')
+>>> s.send('415-123-4567', 'hola')
 ```
